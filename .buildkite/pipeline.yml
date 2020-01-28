@@ -12,5 +12,5 @@ steps:
       - https://github.com/call/virtualbox-buildkite-plugin#v0.1.1:
           vm-name: ubuntu-vanilla
           vm-snapshot: base
-          vm-username: myadmin
-          vm-password: admin
+          vm-username: philip
+          vm-password: philip
